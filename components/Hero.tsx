@@ -15,10 +15,10 @@ const Hero = () => {
         className="flex flex-col items-center justify-center"
       >
         <div className="relative w-[263px] h-[263px] shadow-lg p-1 -mb-36">
-          <Image src="/petty's paws.png" alt="Petty's Paws Logo" fill style={{ objectFit: 'contain' }} priority />
+          <Image src="/logo.png" alt="Petty's Paws Logo" fill style={{ objectFit: 'contain' }} priority />
         </div>
         <div className="relative w-[444px] h-[444px] mt-6">
-          <Image src="/petty's paws_black.png" alt="Petty's Paws Text" fill style={{ objectFit: 'contain' }} priority />
+          <Image src="/pettyspaws_black.png" alt="Petty's Paws Text" fill style={{ objectFit: 'contain' }} priority />
         </div>
       </motion.div>
       <motion.h1

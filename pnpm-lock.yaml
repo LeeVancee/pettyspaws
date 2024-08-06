@@ -11,9 +11,6 @@ importers:
       '@fontsource-variable/noto-sans-sc':
         specifier: ^5.0.7
         version: 5.0.7
-      '@fontsource-variable/roboto-mono':
-        specifier: ^5.0.19
-        version: 5.0.19
       '@fontsource/poppins':
         specifier: ^5.0.14
         version: 5.0.14
@@ -153,9 +150,6 @@ packages:
 
   '@fontsource-variable/noto-sans-sc@5.0.7':
     resolution: {integrity: sha512-Bsp2O0QgJm9HnvY0dmCHnEq4+2NkNZ9iWYkj3afuDQIOL+2D5E07+jjYRWNWmW9DAXwIQG4NTqQrZ9OI5YsGVQ==}
-
-  '@fontsource-variable/roboto-mono@5.0.19':
-    resolution: {integrity: sha512-EGHx+Av6qNZf1XUM69eE1dwG3vtZHTpRETlkgt9BoRcN0T9xG+Boo/TzznmhI40CLI1zwBjmglEIu2qNI462Vw==}
 
   '@fontsource/poppins@5.0.14':
     resolution: {integrity: sha512-nmM1zpPo3Uh4JcGAVSQuWaZNYh2FbbwWhZ5t6hRaynmJaNTBW85d3nEh9zMmzI0HX7X5xqQVdRHeDatKpOGsnA==}
@@ -2354,8 +2348,6 @@ snapshots:
   '@floating-ui/utils@0.2.5': {}
 
   '@fontsource-variable/noto-sans-sc@5.0.7': {}
-
-  '@fontsource-variable/roboto-mono@5.0.19': {}
 
   '@fontsource/poppins@5.0.14': {}
 

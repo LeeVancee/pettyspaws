@@ -6,6 +6,9 @@ body,
 html {
   height: 100%;
 }
+body {
+  font-family: 'Poppins', 'Noto Sans SC Variable', sans-serif, monospace;
+}
 
 @layer base {
   :root {

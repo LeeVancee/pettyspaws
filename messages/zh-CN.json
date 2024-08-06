@@ -5,7 +5,8 @@
     "Navigation": {
         "home": "主页",
         "concepts": "概念",
-        "about": "关于"
+        "about": "关于",
+        "navigate": "导航"
     },
     "concepts": {
         "title": "品牌概念",

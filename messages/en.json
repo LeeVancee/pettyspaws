@@ -5,7 +5,8 @@
     "Navigation": {
         "home": "Information",
         "concepts": "Concepts",
-        "about": "About"
+        "about": "About",
+        "navigate": "Navigation"
     },
     "concepts": {
         "title": "Concepts",

@@ -1,4 +1,8 @@
 import { ReactNode } from 'react';
+// Supports weights 100-900
+import '@fontsource-variable/noto-sans-sc';
+
+import '@fontsource/poppins';
 import './globals.css';
 
 type Props = {

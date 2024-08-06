@@ -4,12 +4,12 @@
     },
     "Navigation": {
         "home": "主頁",
-        "concepts": "概念",
+        "concepts": "理念",
         "about": "關於",
         "navigate": "導航"
     },
     "concepts": {
-        "title": "品牌概念",
+        "title": "品牌理念",
         "description": "petty's paws 相信每一次寵物與主人的互動都是獨特而珍貴的瞬間。\n\n我們致力於透過創新的設計和高品質的產品，提升這些時刻的品質和愉悅感。\n\n我們堅信，寵物不僅是家庭的一部分，更是快樂和幸福的泉源。"
     },
     "social": {

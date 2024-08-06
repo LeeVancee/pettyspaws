@@ -24,7 +24,7 @@ export default function Social() {
 
   const socialMedias = [
     { src: '/抖音.webp', name: 'doyin', link: 'https://v.douyin.com/irJwr2PJ/ 7@3.com' },
-    { src: '/微博.webp', name: 'Weibo', link: 'https://weibo.com/pettyspaws' },
+    { src: '/微博.webp', name: 'Weibo', link: 'https://weibo.com/u/7915067178' },
     {
       src: '/小红书.webp',
       name: 'Xiaohongshu',

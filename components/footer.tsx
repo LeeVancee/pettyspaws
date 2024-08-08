@@ -11,7 +11,9 @@ const Footer = () => {
             </span>
           </p>
           <nav className="flex space-x-4">
-            <p className="text-gray-500 hover:text-gray-700 transition-colors duration-300">Design by AsahaSora</p>
+            <p className="text-gray-500 hover:text-gray-700 transition-colors duration-300">
+              Pettyspaws Pet Products Co., Ltd
+            </p>
           </nav>
         </div>
       </div>

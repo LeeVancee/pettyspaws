@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   experimental: {
     reactCompiler: true,
+    ppr: true,
   },
 };
 

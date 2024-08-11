@@ -15,7 +15,7 @@ const AnimatedSection = ({ title, content, delay = 0, duration = 1 }: AnimatedSe
   const isInView = useInView(ref, { once: true, amount: 0.3 });
 
   const containerVariants: Variants = {
-    hidden: { opacity: 0, y: 20 },
+    //   hidden: { opacity: 0, y: 20 },
     visible: {
       opacity: 1,
       y: 0,
@@ -27,7 +27,7 @@ const AnimatedSection = ({ title, content, delay = 0, duration = 1 }: AnimatedSe
   };
 
   const childVariants: Variants = {
-    hidden: { opacity: 0, y: -20 },
+    hidden: { opacity: 0, y: 20 },
     visible: {
       opacity: 1,
       y: 0,
